@@ -1,0 +1,25 @@
+{
+  "name": "gridfw-security",
+  "version": "1.0.1",
+  "description": "user management, path management, roles, security",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "keywords": [
+  ],
+  "author": "khalid rafik",
+  "license": "MIT",
+  "devDependencies": {
+    "cli-table": "^0.3.1",
+    "gulp": "^4.0.0",
+    "gulp-chug": "^0.5.1",
+    "gulp-coffeescript": "0.0.15",
+    "gulp-include": "^2.3.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.1",
+    "gulp-util": "^3.0.8"
+  },
+  "dependencies": {}
+}
